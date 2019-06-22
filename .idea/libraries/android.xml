@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependence/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependence/androidx-appcompat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependence/androidx-cardview.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
